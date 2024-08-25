@@ -126,6 +126,12 @@ body{
     color: #fff;
 }
 
+h1{
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+}
+
 @keyframes rotate {
     0% {
         transform: rotateZ(0deg);
